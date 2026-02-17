@@ -1,4 +1,4 @@
-# 🐄 Smart Farmer (2D) — C++ / SFML
+# Smart Farmer (2D) — C++ / SFML
 
 Smart Farmer este o adaptare 2D a jocului logic omonim. Scopul este să separi animalele în țarcuri folosind garduri, respectând regulile impuse de fiecare nivel.
 
