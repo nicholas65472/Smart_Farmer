@@ -13,7 +13,7 @@ Smart Farmer este o adaptare 2D a jocului logic omonim. Scopul este să separi a
 - SFML (Graphics, System, Audio)
 - Niveluri încărcate din fișiere `.txt`
 
-## 🎮 Funcționalități
+## Funcționalități
 - Main Menu (Start / How to Play / Exit)
 - Sistem de 60 niveluri
 - Timer progresiv (30–90 secunde în funcție de nivel)
